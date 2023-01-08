@@ -58,7 +58,7 @@
              padding: 0px 50px;
 }
 .main-right{
-    padding: 172px 264px 85px 0px;   
+    padding: 172px 264px 85px 120px;   
 }
 .main-header{
     margin-bottom: 24px;
@@ -84,4 +84,72 @@ nav ul{
 nav li {
     list-style: none;
     margin:50px 0px; 
+}
+.my{
+    color: #151414;
+    font-weight: 700;
+    font-size: 28px;
+   margin-left: 850px;
+   
+    
+}
+.my-plan{
+    font-weight: 700;
+    font-size: 30px;
+    display: flex;
+    text-align: center;
+    padding: 12px 220px 0px 180px;
+   
+}
+.start{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+}
+.ecom{
+   
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+    
+}
+.end{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+}
+.develop{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+}
+.learn{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+}
+
+/* header text  */
+.web{
+   font-size: 18px;
+   padding-left: 150px;
+  padding-right: 120px;
+}
+.java{
+    font-size: 18px;
+    padding-right: 120px;
+}
+.smoke{
+    font-size: 18px;
+    padding-right: 120px;
+}
+.ecom{
+    font-size: 18px;
+    padding-right: 120px;
+    color: #151414;
 }
