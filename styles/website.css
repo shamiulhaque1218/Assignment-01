@@ -143,6 +143,7 @@ nav li {
 .java{
     font-size: 18px;
     padding-right: 120px;
+    
 }
 .smoke{
     font-size: 18px;
@@ -153,3 +154,201 @@ nav li {
     padding-right: 120px;
     color: #151414;
 }
+
+/* footer */
+
+.call{
+    background-image: url(../images/gradient1.png), url(../images/watch.png);
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 50%;
+    display: flex;
+    padding: 5px 50px;
+    border-radius: 10px;
+    margin-top: 110px;
+    margin-left: 350px;
+    margin-bottom: 120px;
+}
+
+.call-text{
+   
+}
+.call-text a{
+    text-decoration: none;
+}
+.call h1{
+    color: rgb(240, 232, 232);
+    margin-bottom: 10px;
+}
+.call-btn{
+    padding: 10px 20px;
+    background-color: white;
+    color: #005FAC;
+    border:none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.call-btn:hover{
+    background-color: rgb(241, 234, 232);
+    color: rgb(255, 255, 255);
+}
+
+
+
+/* main footer section */
+
+.footer-future{
+    width: 80%;
+    margin: 20px 300px;
+    justify-content: space-around;
+
+}
+.footer-future h1{
+    font-weight: 700;
+    font-size: 45px; 
+}
+.footer-future p{
+    font-weight: 400;
+   font-size: 16px;
+   line-height: 20px;
+}
+.footer-start{
+    
+    background-color: black;
+    color:  #FFFFFF;
+    width: 1600px;
+    height: 300px;
+    padding: 130px 50px;
+    
+}
+.footer-file{
+    display: flex;
+
+}
+.many{
+    padding-right: 400px;
+
+}
+.sub{
+    padding-right: 40px;
+    
+}
+.social-media{
+    margin-top: 50px;
+
+}
+.footer-subscribe{
+    
+    line-height: 80px;
+  text-align: left;
+    
+}
+
+.submit{
+    padding: 18px 35px;
+    background-color: #005FAC;
+    color: #FFFFFF;
+    border-radius: 5px;
+    width: 170.11px;
+    height: 64px;
+    text-decoration: none;
+    
+
+}
+.submit:hover{
+    background-color: yellowgreen;
+    color: rgb(255, 255, 255);
+}
+
+.pl{
+    background-color: #151414;
+    color: #FFFFFF;
+    padding: 10px 25px;
+    border-radius: 8px;
+}
+
+
+
+
+
+
+
+
+
+/* 
+.footer-section{
+    background-color: #333;
+    height: 400px;
+    padding:100px 0px;
+    margin-top: 100px;
+}
+.footer-content{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.footer-left{
+    width: 40%;
+    color: white;
+}
+.footer-left h1{
+    font-family:'palo', Calibri, 'Trebuchet MS', sans-serif;
+}
+.footer-left p{
+    font-family:'palo', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 3px;
+}
+.social-media a{
+    float: left;
+    background-color: white;
+    border-radius: 50%;
+    margin-right: 10px;
+    font-family:'palo', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.footer-right{
+    width: 50%;
+    padding-left:200px;
+}
+.footer-right h1{
+    color: white;
+    font-size: 24px;
+    font-family:'palo', Calibri, 'Trebuchet MS', sans-serif;
+}
+form input{
+    height: 35px;
+    width: 200px;
+    outline:none;
+    border:1px solid white;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding:0px 20px;
+    background: transparent;
+    
+} */
+
+
+
+/* 
+.submit{
+    padding: 10px 20px;
+    background-color: white;
+    color: orange;
+    border:none; 
+    outline: none;
+    border-radius: 5px;
+    font-family:'palo', Calibri, 'Trebuchet MS', sans-serif;
+}
+.submit:hover{
+    background-color: orangered;
+    color: rgb(255, 255, 255);
+}
+.footer-right a{
+    margin-top: 20px;
+    text-decoration: none;
+    font-family:'palo', Calibri, 'Trebuchet MS', sans-serif;
+} */
